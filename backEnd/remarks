@@ -1,3 +1,7 @@
+0. search player per name : request :  
+https://s.livesport.services/api/v2/search/?q=cilic%20marin&lang-id=1&type-ids=1,2,3,4&project-id=107&project-type-id=2&sport-ids=2
+https://s.livesport.services/api/v2/search/?q={player_name}&lang-id=1&type-ids=1,2,3,4&project-id=107&project-type-id=2&sport-ids=2
+
 1. player matches content return len 0 if the index has exceeded the limit 
 
 2. match details : 
