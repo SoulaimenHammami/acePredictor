@@ -1,0 +1,15 @@
+1. player matches content return len 0 if the index has exceeded the limit 
+
+2. match details : 
+https://global.flashscore.ninja/107/x/feed/df_st_2_jLLtIpd4
+format ; 
+https://global.flashscore.ninja/107/x/feed/df_st_2_{match_id} :
+split ; ~SG÷Aces 1 st one is for all the match 
+and the rest are for the the sets , 
+then split per name directly 
+
+
+go back to the match id extraction and detect the sets score : and the opponent name : and turn it into a text :
+extract date of the game , the opponent name , the score the tournament 
+https://global.flashscore.ninja/107/x/feed/pr_2_59_{id_player}_{change}_1_en_2_s 
+there is common part for it 

@@ -1,0 +1,19 @@
+langchain
+langchain-community
+langchain-core
+langchain-openai
+bs4
+requests
+rich
+fastapi
+python-dotenv
+uvicorn
+# yoyo-migrations
+# passlib
+# pyjwt
+# python_json_logger
+# psycopg2-binary
+# asyncpg
+# sqlalchemy
+random-user-agent
+# playwright

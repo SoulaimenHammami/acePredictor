@@ -1,0 +1,108 @@
+SE÷Match¬~SF÷Service¬
+~SG÷Aces¬SH÷8¬SI÷6¬
+~SG÷Double Faults¬SH÷5¬SI÷1¬
+~SG÷1st Serve Percentage¬SH÷51%¬SI÷52%¬
+~SG÷1st Serve Points Won¬SH÷78% (21/27)¬SI÷85% (29/34)¬
+~SG÷2nd Serve Points Won¬SH÷50% (13/26)¬SI÷52% (16/31)¬
+~SG÷Break Points Saved¬SH÷67% (6/9)¬SI÷67% (2/3)¬~SF÷Return¬
+~SG÷1st Return Points Won¬SH÷15% (5/34)¬SI÷22% (6/27)¬
+~SG÷2nd Return Points Won¬SH÷48% (15/31)¬SI÷50% (13/26)¬
+~SG÷Break Points Converted¬SH÷33% (1/3)¬SI÷33% (3/9)¬~SF÷Points¬
+~SG÷Winners¬SH÷15¬SI÷17¬
+~SG÷Unforced Errors¬SH÷30¬SI÷27¬
+~SG÷Net Points Won¬SH÷33% (1/3)¬SI÷67% (2/3)¬
+~SG÷Max Points In Row¬SH÷5¬SI÷6¬
+~SG÷Service Points Won¬SH÷64% (34/53)¬SI÷69% (45/65)¬
+~SG÷Return Points Won¬SH÷31% (20/65)¬SI÷36% (19/53)¬
+~SG÷Total Points Won¬SH÷46% (54/118)¬SI÷54% (64/118)¬~SF÷Games¬
+~SG÷Max Games In Row¬SH÷3¬SI÷5¬
+~SG÷Service Games Won¬SH÷70% (7/10)¬SI÷90% (9/10)¬
+~SG÷Return Games Won¬SH÷10% (1/10)¬SI÷30% (3/10)¬
+~SG÷Total Games Won¬SH÷40% (8/20)¬SI÷60% (12/20)¬~SE÷Set 1¬~SF÷Service¬
+~SG÷Aces¬SH÷5¬SI÷3¬
+~SG÷Double Faults¬SH÷3¬SI÷0¬
+~SG÷1st Serve Percentage¬SH÷42%¬SI÷50%¬
+~SG÷1st Serve Points Won¬SH÷80% (8/10)¬SI÷84% (16/19)¬
+~SG÷2nd Serve Points Won¬SH÷50% (7/14)¬SI÷42% (8/19)¬
+~SG÷Break Points Saved¬SH÷50% (2/4)¬SI÷50% (1/2)¬~SF÷Return¬
+~SG÷1st Return Points Won¬SH÷16% (3/19)¬SI÷20% (2/10)¬
+~SG÷2nd Return Points Won¬SH÷58% (11/19)¬SI÷50% (7/14)¬
+~SG÷Break Points Converted¬SH÷50% (1/2)¬SI÷50% (2/4)¬~SF÷Points¬
+~SG÷Winners¬SH÷9¬SI÷9¬
+~SG÷Unforced Errors¬SH÷18¬SI÷16¬
+~SG÷Net Points Won¬SH÷0% (0/1)¬SI÷100% (2/2)¬
+~SG÷Service Points Won¬SH÷63% (15/24)¬SI÷63% (24/38)¬
+~SG÷Return Points Won¬SH÷37% (14/38)¬SI÷38% (9/24)¬
+~SG÷Total Points Won¬SH÷47% (29/62)¬SI÷53% (33/62)¬~SF÷Games¬
+~SG÷Service Games Won¬SH÷60% (3/5)¬SI÷80% (4/5)¬
+~SG÷Return Games Won¬SH÷20% (1/5)¬SI÷40% (2/5)¬
+~SG÷Total Games Won¬SH÷40% (4/10)¬SI÷60% (6/10)¬~SE÷Set 2¬~SF÷Service¬
+~SG÷Aces¬SH÷3¬SI÷3¬
+~SG÷Double Faults¬SH÷2¬SI÷1¬
+~SG÷1st Serve Percentage¬SH÷59%¬SI÷56%¬
+~SG÷1st Serve Points Won¬SH÷76% (13/17)¬SI÷87% (13/15)¬
+~SG÷2nd Serve Points Won¬SH÷50% (6/12)¬SI÷67% (8/12)¬
+~SG÷Break Points Saved¬SH÷80% (4/5)¬SI÷100% (1/1)¬~SF÷Return¬
+~SG÷1st Return Points Won¬SH÷13% (2/15)¬SI÷24% (4/17)¬
+~SG÷2nd Return Points Won¬SH÷33% (4/12)¬SI÷50% (6/12)¬
+~SG÷Break Points Converted¬SH÷0% (0/1)¬SI÷20% (1/5)¬~SF÷Points¬
+~SG÷Winners¬SH÷6¬SI÷8¬
+~SG÷Unforced Errors¬SH÷12¬SI÷11¬
+~SG÷Net Points Won¬SH÷50% (1/2)¬SI÷0% (0/1)¬
+~SG÷Service Points Won¬SH÷66% (19/29)¬SI÷78% (21/27)¬
+~SG÷Return Points Won¬SH÷22% (6/27)¬SI÷34% (10/29)¬
+~SG÷Total Points Won¬SH÷45% (25/56)¬SI÷55% (31/56)¬~SF÷Games¬
+~SG÷Service Games Won¬SH÷80% (4/5)¬SI÷100% (5/5)¬
+~SG÷Return Games Won¬SH÷0% (0/5)¬SI÷20% (1/5)¬
+~SG÷Total Games Won¬SH÷40% (4/10)¬SI÷60% (6/10)¬~A1÷¬~
+
+
+
+SE÷Match¬~SF÷Service¬
+~SG÷Aces¬SH÷3¬SI÷3¬
+~SG÷Double Faults¬SH÷3¬SI÷0¬
+~SG÷1st Serve Percentage¬SH÷60%¬SI÷56%¬
+~SG÷1st Serve Points Won¬SH÷60% (26/43)¬SI÷74% (23/31)¬
+~SG÷2nd Serve Points Won¬SH÷45% (13/29)¬SI÷71% (17/24)¬
+~SG÷Break Points Saved¬SH÷63% (5/8)¬SI÷100% (3/3)¬~SF÷Return¬
+~SG÷1st Return Points Won¬SH÷26% (8/31)¬SI÷40% (17/43)¬
+~SG÷2nd Return Points Won¬SH÷29% (7/24)¬SI÷55% (16/29)¬
+~SG÷Break Points Converted¬SH÷0% (0/3)¬SI÷38% (3/8)¬~SF÷Points¬
+~SG÷Max Points In Row¬SH÷5¬SI÷7¬
+~SG÷Service Points Won¬SH÷54% (39/72)¬SI÷73% (40/55)¬
+~SG÷Return Points Won¬SH÷27% (15/55)¬SI÷46% (33/72)¬
+~SG÷Total Points Won¬SH÷43% (54/127)¬SI÷57% (73/127)¬~SF÷Games¬
+~SG÷Max Games In Row¬SH÷1¬SI÷3¬
+~SG÷Service Games Won¬SH÷70% (7/10)¬SI÷100% (9/9)¬
+~SG÷Return Games Won¬SH÷0% (0/9)¬SI÷30% (3/10)¬
+~SG÷Total Games Won¬SH÷37% (7/19)¬SI÷63% (12/19)¬~SE÷Set 1¬~SF÷Service¬
+~SG÷Aces¬SH÷1¬SI÷2¬
+~SG÷Double Faults¬SH÷2¬SI÷0¬
+~SG÷1st Serve Percentage¬SH÷55%¬SI÷45%¬
+~SG÷1st Serve Points Won¬SH÷67% (14/21)¬SI÷77% (10/13)¬
+~SG÷2nd Serve Points Won¬SH÷47% (8/17)¬SI÷75% (12/16)¬
+~SG÷Break Points Saved¬SH÷67% (2/3)¬SI÷100% (1/1)¬~SF÷Return¬
+~SG÷1st Return Points Won¬SH÷23% (3/13)¬SI÷33% (7/21)¬
+~SG÷2nd Return Points Won¬SH÷25% (4/16)¬SI÷53% (9/17)¬
+~SG÷Break Points Converted¬SH÷0% (0/1)¬SI÷33% (1/3)¬~SF÷Points¬
+~SG÷Service Points Won¬SH÷58% (22/38)¬SI÷76% (22/29)¬
+~SG÷Return Points Won¬SH÷24% (7/29)¬SI÷42% (16/38)¬
+~SG÷Total Points Won¬SH÷43% (29/67)¬SI÷57% (38/67)¬~SF÷Games¬
+~SG÷Service Games Won¬SH÷80% (4/5)¬SI÷100% (5/5)¬
+~SG÷Return Games Won¬SH÷0% (0/5)¬SI÷20% (1/5)¬
+~SG÷Total Games Won¬SH÷40% (4/10)¬SI÷60% (6/10)¬~SE÷Set 2¬~SF÷Service¬
+~SG÷Aces¬SH÷2¬SI÷1¬
+~SG÷Double Faults¬SH÷1¬SI÷0¬
+~SG÷1st Serve Percentage¬SH÷65%¬SI÷69%¬
+~SG÷1st Serve Points Won¬SH÷55% (12/22)¬SI÷72% (13/18)¬
+~SG÷2nd Serve Points Won¬SH÷42% (5/12)¬SI÷63% (5/8)¬
+~SG÷Break Points Saved¬SH÷60% (3/5)¬SI÷100% (2/2)¬~SF÷Return¬
+~SG÷1st Return Points Won¬SH÷28% (5/18)¬SI÷45% (10/22)¬
+~SG÷2nd Return Points Won¬SH÷38% (3/8)¬SI÷58% (7/12)¬
+~SG÷Break Points Converted¬SH÷0% (0/2)¬SI÷40% (2/5)¬~SF÷Points¬
+~SG÷Service Points Won¬SH÷50% (17/34)¬SI÷69% (18/26)¬
+~SG÷Return Points Won¬SH÷31% (8/26)¬SI÷50% (17/34)¬
+~SG÷Total Points Won¬SH÷42% (25/60)¬SI÷58% (35/60)¬~SF÷Games¬
+~SG÷Service Games Won¬SH÷60% (3/5)¬SI÷100% (4/4)¬
+~SG÷Return Games Won¬SH÷0% (0/4)¬SI÷40% (2/5)¬
+~SG÷Total Games Won¬SH÷33% (3/9)¬SI÷67% (6/9)¬~A1÷¬~
