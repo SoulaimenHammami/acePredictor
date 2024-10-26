@@ -40,6 +40,14 @@ def get_matches_ids(player_matches: str)->list :
     matches_ids =[match.split("¬AD÷")[0] for match in elements if len(match.split("¬AD÷")[0])==8 ]
     return matches_ids
 
+
+def process_details(content): 
+    matches_informations = []
+    tournaments_split = content.split('- SINGLES: ')
+    for detail in tournaments_split :
+        tournament_surface  , other = detail.split('¬ZEE')
+        tournament , surface = tournament_surface.split(', ')
+        
 if __name__ =="__main__":
     player_id =  "xCD2BANp"
     content= get_player_matches(player_id=player_id)

@@ -1,0 +1,521 @@
+SA÷2
+
+Montreal (Canada), hard
+-------------------------------------
+
+IyRQC2vM¬ZB÷3473162¬ZC÷CKCX4A7E¬ZD÷p¬ZE÷b9JW8NoC¬ZF÷0¬ZO÷0¬ZG÷2¬ZH÷9011_IyRQC2vM¬ZJ÷5¬ZK÷Montreal (Canada)¬ZL÷/atp-singles/montreal/¬OAJ÷WlZRMjgU-65f3ZUDb.png¬ZX÷00110...000Montreal, ha014, hard00700000Montreal (Ca017anada)¬ZHS÷5724¬ZCC÷0¬TSS÷¬ZAF÷ATP - Singles¬ZAC÷MON
+----------EXTRACTION-----------------
+MATCH_ID:  MaUdmk0t
+START_DATE:1660063200
+END_DATE: 1660063200
+PLAYER_ONE: Cilic M.¬RW÷0¬AX÷0¬AO÷1660068073¬BX÷-1¬WL÷¬WQ÷¬WN÷COR
+PLAYER_TWO: Coric B.
+
+Coric B.¬JB÷YuQ3R3m9¬PY÷QZdb3dWH¬WV÷coric-borna¬GRB÷0¬CB÷59¬FV÷Croatia¬AH÷0
+
+0
+2¬BA÷6¬BC÷6¬OA÷p0QaQSjC-MiifrrOt.png¬AW÷1
+
+London (United Kingdom), grass
+-------------------------------------
+
+SUpSZy5K¬ZB÷3473162¬ZC÷MP64cBLE¬ZD÷p¬ZE÷pf3FGLke¬ZF÷0¬ZO÷0¬ZG÷2¬ZH÷9011_SUpSZy5K¬ZJ÷5¬ZK÷London (United Kingdom)¬ZL÷/atp-singles/london/¬OAJ÷nTFoxAU1-GpBMrZoC.png¬ZX÷00110...000London, gras013 grass01200000London (Unit023ngdom)¬ZHS÷5724¬ZCC÷0¬TSS÷¬ZAF÷ATP - Singles¬ZAC÷LON
+----------EXTRACTION-----------------
+MATCH_ID:  URE1zDOI
+START_DATE:1655564400
+END_DATE: 1655564400
+PLAYER_ONE: Krajinovic F.¬RW÷0¬AX÷0¬AO÷1655569254¬BX÷-1¬WL÷¬WQ÷¬WN÷CIL
+PLAYER_TWO: Cilic M.
+
+Cilic M.¬JB÷hpa3qKJg¬PY÷nLoK5syL¬WV÷cilic-marin¬GRB÷0¬CB÷59¬FV÷Croatia¬AH÷0
+
+0
+2¬BA÷6¬BC÷6¬OA÷CEWu6qSq-nR6SBSXe.png¬AW÷1
+----------EXTRACTION-----------------
+MATCH_ID:  xEHl81BB
+START_DATE:1655484000
+END_DATE: 1655484000
+PLAYER_ONE: Ruusuvuori E.¬RW÷0¬AX÷0¬AO÷1655490381¬BX÷-1¬WL÷¬WQ÷¬WN÷CIL
+PLAYER_TWO: Cilic M.
+
+Cilic M.¬JB÷dtA5bOSS¬PY÷nLoK5syL¬WV÷cilic-marin¬AS÷2¬AZ÷2¬GRB÷0¬CB÷59¬FV÷Croatia¬AH÷2
+
+2
+0¬BA÷6¬BC÷4¬DA÷2¬OA÷8fULLqle-YX7q02SD.png¬AW÷1
+----------EXTRACTION-----------------
+MATCH_ID:  UyYYNLdm
+START_DATE:1655314800
+END_DATE: 1655314800
+PLAYER_ONE: Bublik A.¬RW÷0¬AX÷0¬AO÷1655320428¬BX÷-1¬WL÷¬WQ÷¬WN÷CIL
+PLAYER_TWO: Cilic M.
+
+Cilic M.¬JB÷0KweX0qK¬PY÷nLoK5syL¬WV÷cilic-marin¬AS÷2¬AZ÷2¬GRB÷0¬CB÷59¬FV÷Croatia¬AH÷2
+
+2
+0¬BA÷6¬BC÷5¬DA÷6¬OA÷U7wU7ESq-lWGm6nUu.png¬AW÷1
+----------EXTRACTION-----------------
+MATCH_ID:  QyetnsxF
+START_DATE:1655137800
+END_DATE: 1655137800
+1¬BA÷1¬BC÷6¬BE÷5¬OA÷Ii1KJgPq-UyJ6f3ng.png¬WN÷CIL
+PLAYER_TWO: Cilic M.
+
+Cilic M.¬JB÷QebfzOTA¬PY÷nLoK5syL¬WV÷cilic-marin¬AS÷2¬AZ÷2¬GRB÷0¬CB÷59¬FV÷Croatia¬AH÷2
+
+2
+6¬BD÷4¬BF÷7¬OB÷p0QaQSjC-MiifrrOt.png¬AW÷1
+
+French Open (France), clay
+-------------------------------------
+
+tItR6sEf¬ZB÷3473162¬ZC÷zuicSU3r¬ZD÷t¬ZE÷YRu2OiB1¬ZF÷0¬ZO÷0¬ZG÷2¬ZH÷9011_tItR6sEf¬ZJ÷5¬ZK÷French Open (France)¬ZL÷/atp-singles/french-open/¬OAJ÷ClCgpLV1-EB3m4Fai.png¬ZX÷00110...000French Open,017, clay00100000French Open 020rance)¬ZHS÷5724¬ZCC÷0¬TSS÷¬ZAF÷ATP - Singles¬ZAC÷FO
+----------EXTRACTION-----------------
+MATCH_ID:  WULrJwZB
+START_DATE:1654276200
+END_DATE: 1654276200
+PLAYER_ONE: Ruud C.¬RW÷0¬AX÷0¬AO÷1654287306¬BX÷-1¬WL÷¬WQ÷¬WN÷CIL
+PLAYER_TWO: Cilic M.
+
+Cilic M.¬JB÷CthJ59Ql¬PY÷nLoK5syL¬WV÷cilic-marin¬GRB÷0¬CB÷59¬FV÷Croatia¬AH÷1
+
+1
+3¬BA÷3¬BC÷6¬BE÷6¬BG÷6¬OA÷EBdMAg6k-6NHltuug.png¬AW÷1
+----------EXTRACTION-----------------
+MATCH_ID:  Eq6W3L3h
+START_DATE:1654094400
+END_DATE: 1654094400
+PLAYER_ONE: Rublev A.¬RW÷0¬AX÷0¬AO÷1654109395¬BX÷-1¬WL÷¬WQ÷¬WN÷CIL
+PLAYER_TWO: Cilic M.
+
+Cilic M.¬JB÷fet0Pgh0¬PY÷nLoK5syL¬WV÷cilic-marin¬AS÷2¬AZ÷2¬GRB÷0¬CB÷59¬FV÷Croatia¬AH÷3
+
+3
+2¬BA÷7¬BC÷3¬BE÷4¬BG÷6¬BI÷6¬DI÷2¬OA÷QwaaOeDN-OGaImkR1.png¬AW÷1
+----------EXTRACTION-----------------
+MATCH_ID:  AkpUHw9a
+START_DATE:1653937500
+END_DATE: 1653937500
+PLAYER_ONE: Cilic M.¬RW÷0¬AX÷0¬AO÷1653943700¬BX÷-1¬WL÷¬WQ÷¬WN÷MED
+PLAYER_TWO: Medvedev D.
+
+Medvedev D.¬JB÷E7XR4iB9¬PY÷O8qG0Nhb¬WV÷medvedev-daniil¬GRB÷0¬CB÷8¬FV÷World¬AH÷0
+
+0
+3¬BA÷6¬BC÷6¬BE÷6¬OA÷p0QaQSjC-MiifrrOt.png¬AW÷1
+----------EXTRACTION-----------------
+MATCH_ID:  4zSUb7ea
+START_DATE:1653743700
+END_DATE: 1653743700
+PLAYER_ONE: Simon G.¬RW÷0¬AX÷0¬AO÷1653750825¬BX÷-1¬WL÷¬WQ÷¬WN÷CIL
+PLAYER_TWO: Cilic M.
+
+Cilic M.¬JB÷v5kkKVXG¬PY÷nLoK5syL¬WV÷cilic-marin¬AS÷2¬AZ÷2¬GRB÷0¬CB÷59¬FV÷Croatia¬AH÷3
+
+3
+0¬BA÷0¬BC÷3¬BE÷2¬OA÷rgLRWJoe-2csRT3Qp.png¬AW÷1
+----------EXTRACTION-----------------
+MATCH_ID:  UPBNPR8I
+START_DATE:1653566100
+END_DATE: 1653566100
+1¬BA÷6¬BC÷4¬BE÷2¬BG÷3¬OA÷nZIZZzS0-CxCflp6n.png¬WN÷CIL
+PLAYER_TWO: Cilic M.
+
+Cilic M.¬JB÷d63aBZ3L¬PY÷nLoK5syL¬WV÷cilic-marin¬AS÷2¬AZ÷2¬GRB÷0¬CB÷59¬FV÷Croatia¬AH÷3
+
+3
+4¬BD÷6¬BF÷6¬BH÷6¬OB÷p0QaQSjC-MiifrrOt.png¬AW÷1
+----------EXTRACTION-----------------
+MATCH_ID:  MyKN3FBo
+START_DATE:1653324600
+END_DATE: 1653324600
+PLAYER_ONE: Balazs A.¬RW÷0¬AX÷0¬AO÷1653330123¬BX÷-1¬WL÷¬WQ÷¬WN÷CIL
+PLAYER_TWO: Cilic M.
+
+Cilic M.¬JB÷CjZAXwDf¬PY÷nLoK5syL¬WV÷cilic-marin¬AS÷2¬AZ÷2¬GRB÷0¬CB÷59¬FV÷Croatia¬AH÷3
+
+3
+0¬BA÷0¬BC÷1¬BE÷2¬OA÷Y7xHfFUH-8fYqFF2n.png¬AW÷1
+
+Rome (Italy), clay
+-------------------------------------
+
+xIkUr2vO¬ZB÷3473162¬ZC÷nkPCWJVq¬ZD÷p¬ZE÷vRTDTQ7O¬ZF÷0¬ZO÷0¬ZG÷2¬ZH÷9011_xIkUr2vO¬ZJ÷5¬ZK÷Rome (Italy)¬ZL÷/atp-singles/rome/¬OAJ÷zaebyhU1-xnfJAtxf.png¬ZX÷00110...000Rome, clay  010, clay01100000Rome (Italy)012Italy)¬ZHS÷5724¬ZCC÷0¬TSS÷¬ZAF÷ATP - Singles¬ZAC÷ROM
+----------EXTRACTION-----------------
+MATCH_ID:  nmulpNSr
+START_DATE:1652362800
+END_DATE: 1652362800
+PLAYER_ONE: Garin C.¬RW÷0¬AX÷0¬AO÷1652373394¬BX÷-1¬WL÷¬WQ÷¬WN÷CIL
+PLAYER_TWO: Cilic M.
+
+Cilic M.¬JB÷Ei9mhYL7¬PY÷nLoK5syL¬WV÷cilic-marin¬GRB÷0¬CB÷59¬FV÷Croatia¬AH÷1
+
+1
+2¬BA÷6¬BC÷4¬BE÷6¬OA÷lIN3xq6k-noXmEZHh.png¬AW÷1
+----------EXTRACTION-----------------
+MATCH_ID:  nLfXJs6K
+START_DATE:1652293800
+END_DATE: 1652293800
+PLAYER_ONE: Cilic M.¬RW÷0¬AX÷0¬AO÷1652301351¬BX÷-1¬WL÷¬WQ÷¬WN÷NOR
+PLAYER_TWO: Norrie C.
+
+Norrie C.¬JB÷d0Gtw4w0¬PY÷pvzhJGY8¬WV÷norrie-cameron¬GRB÷0¬CB÷197¬FV÷United Kingdom¬AH÷1
+
+1
+2¬BA÷5¬BC÷6¬BE÷6¬OA÷p0QaQSjC-MiifrrOt.png¬AW÷1
+----------EXTRACTION-----------------
+MATCH_ID:  YmFqbc2c
+START_DATE:1652019000
+END_DATE: 1652019000
+PLAYER_ONE: Cilic M.¬RW÷0¬AX÷0¬AO÷1652023712¬BX÷-1¬WL÷¬WQ÷¬WN÷ARN
+PLAYER_TWO: Arnaldi M.
+
+Arnaldi M.¬JB÷EDEUkXGG¬PY÷hlVLAfZK¬WV÷arnaldi-matteo¬GRB÷0¬CB÷98¬FV÷Italy¬AH÷0
+
+0
+2¬BA÷6¬BC÷6¬OA÷p0QaQSjC-MiifrrOt.png¬AW÷1
+
+Madrid (Spain), clay
+-------------------------------------
+
+632P4ana¬ZB÷3473162¬ZC÷4bu2Khdi¬ZD÷p¬ZE÷GCdO8QwD¬ZF÷0¬ZO÷0¬ZG÷2¬ZH÷9011_632P4ana¬ZJ÷5¬ZK÷Madrid (Spain)¬ZL÷/atp-singles/madrid/¬OAJ÷Czg9qxkd-lplaEzL7.png¬ZX÷00110...000Madrid, clay012, clay00300000Madrid (Spai014Spain)¬ZHS÷5724¬ZCC÷0¬TSS÷¬ZAF÷ATP - Singles¬ZAC÷MAD
+----------EXTRACTION-----------------
+MATCH_ID:  6yh04aiG
+START_DATE:1651664400
+END_DATE: 1651664400
+1¬BA÷6¬BC÷4¬BE÷4¬OA÷p0QaQSjC-MiifrrOt.png¬WN÷ZVE
+PLAYER_TWO: Zverev A.
+
+Zverev A.¬JB÷nBfM0bJr¬PY÷dGbUhw9m¬WV÷zverev-alexander¬AS÷2¬AZ÷2¬GRB÷0¬CB÷81¬FV÷Germany¬AH÷2
+
+2
+4¬BD÷6¬BF÷6¬OB÷lU8NIJlC-KATGX1RA.png¬AW÷1
+----------EXTRACTION-----------------
+MATCH_ID:  0Gn0kk31
+START_DATE:1651572600
+END_DATE: 1651572600
+PLAYER_ONE: Cilic M.¬RW÷0¬AX÷0¬AO÷1651580871¬BX÷-1¬WL÷¬WQ÷¬WN÷RAM
+PLAYER_TWO: Ramos A.
+
+Ramos A.¬JB÷Kl4BjDhq¬PY÷bHLexrv0¬WV÷ramos-vinolas-albert¬GRB÷0¬CB÷176¬FV÷Spain¬AH÷1
+
+1
+2¬BA÷6¬BC÷3¬BE÷6¬OA÷p0QaQSjC-MiifrrOt.png¬AW÷1
+
+Estoril (Portugal), clay
+-------------------------------------
+
+b5iXlOJt¬ZB÷3473162¬ZC÷p0aULsdM¬ZD÷p¬ZE÷lpc6QdKG¬ZF÷0¬ZO÷0¬ZG÷2¬ZH÷9011_b5iXlOJt¬ZJ÷5¬ZK÷Estoril (Portugal)¬ZL÷/atp-singles/estoril/¬OAJ÷IyAn3Kkd-zqTODQXO.png¬ZX÷00110...000Estoril, cla013, clay00100000Estoril (Por018tugal)¬ZHS÷5724¬ZCC÷0¬TSS÷¬ZAF÷ATP - Singles¬ZAC÷EST
+----------EXTRACTION-----------------
+MATCH_ID:  ryA99EqF
+START_DATE:1651156800
+END_DATE: 1651156800
+PLAYER_ONE: Baez S.¬RW÷0¬AX÷0¬AO÷1651163365¬BX÷-1¬WL÷¬WQ÷¬WN÷CIL
+PLAYER_TWO: Cilic M.
+
+Cilic M.¬JB÷MkpeP5LB¬PY÷nLoK5syL¬WV÷cilic-marin¬GRB÷0¬CB÷59¬FV÷Croatia¬AH÷1
+
+1
+2¬BA÷1¬BC÷6¬BE÷6¬OA÷OCPJSKhT-hI8rc03T.png¬AW÷1
+
+Monte Carlo (Monaco), clay
+-------------------------------------
+
+IsxHSx6l¬ZB÷3473162¬ZC÷63o88Wgn¬ZD÷p¬ZE÷nyqUhnsJ¬ZF÷0¬ZO÷0¬ZG÷2¬ZH÷9011_IsxHSx6l¬ZJ÷5¬ZK÷Monte Carlo (Monaco)¬ZL÷/atp-singles/monte-carlo/¬OAJ÷YelJeCmd-htuB9Par.png¬ZX÷00110...000Monte Carlo,017, clay00100000Monte Carlo 020onaco)¬ZHS÷5724¬ZCC÷0¬TSS÷¬ZAF÷ATP - Singles¬ZAC÷MON
+----------EXTRACTION-----------------
+MATCH_ID:  tjGZgRF9
+START_DATE:1649851200
+END_DATE: 1649851200
+PLAYER_ONE: Fritz T.¬RW÷0¬AX÷0¬AO÷1649859490¬BX÷-1¬WL÷¬WQ÷¬WN÷CIL
+PLAYER_TWO: Cilic M.
+
+Cilic M.¬JB÷v9B7GcrS¬PY÷nLoK5syL¬WV÷cilic-marin¬GRB÷0¬CB÷59¬FV÷Croatia¬AH÷1
+
+1
+2¬BA÷6¬BC÷4¬BE÷6¬OA÷nNp7KtAN-8AMTtzu5.png¬AW÷1
+----------EXTRACTION-----------------
+MATCH_ID:  xGtAyYZa
+START_DATE:1649697300
+END_DATE: 1649697300
+PLAYER_ONE: Tsonga J-W.¬RW÷0¬AX÷0¬AO÷1649701448¬BX÷-1¬WL÷¬WQ÷¬WN÷CIL
+PLAYER_TWO: Cilic M.
+
+Cilic M.¬JB÷6ZBRUTG5¬PY÷nLoK5syL¬WV÷cilic-marin¬AS÷2¬AZ÷2¬GRB÷0¬CB÷59¬FV÷Croatia¬AH÷2
+
+2
+0¬BA÷2¬BC÷2¬OA÷OzZtKyiT-2XHaPTH1.png¬AW÷1
+
+Miami (USA), hard
+-------------------------------------
+
+lYvC7qBE¬ZB÷3473162¬ZC÷bkrmcwEc¬ZD÷p¬ZE÷IsMSCqbH¬ZF÷0¬ZO÷0¬ZG÷2¬ZH÷9011_lYvC7qBE¬ZJ÷5¬ZK÷Miami (USA)¬ZL÷/atp-singles/miami/¬OAJ÷pYrHVmWI-E3PXzIV8.png¬ZX÷00110...000Miami, hard 011, hard01700000Miami (USA) 011 (USA)¬ZHS÷5724¬ZCC÷0¬TSS÷¬ZAF÷ATP - Singles¬ZAC÷MIA
+----------EXTRACTION-----------------
+MATCH_ID:  GpxRr14g
+START_DATE:1648494900
+END_DATE: 1648494900
+PLAYER_ONE: Cilic M.¬RW÷0¬AX÷0¬AO÷1648500777¬BX÷-1¬WL÷¬WQ÷¬WN÷ALC
+PLAYER_TWO: Alcaraz C.
+
+Alcaraz C.¬JB÷rXxeaOst¬PY÷UkhgIFEq¬WV÷alcaraz-garfia-carlos¬AS÷2¬AZ÷2¬GRB÷0¬CB÷176¬FV÷Spain¬AH÷2
+
+2
+0¬BA÷4¬BC÷4¬OA÷p0QaQSjC-MiifrrOt.png¬AW÷1
+----------EXTRACTION-----------------
+MATCH_ID:  zBpOu6pp
+START_DATE:1648339500
+END_DATE: 1648339500
+PLAYER_ONE: Cilic M.¬RW÷0¬AX÷0¬AO÷1648342588¬BX÷-1¬WL÷¬WQ÷¬WN÷POP
+PLAYER_TWO: Popyrin A.
+
+Popyrin A.¬JB÷rol7gz1n¬PY÷fJjLpuNq¬WV÷popyrin-alexei¬GRB÷0¬CB÷24¬FV÷Australia¬AH÷0
+
+0
+2¬BA÷6¬BC÷6¬OA÷p0QaQSjC-MiifrrOt.png¬AW÷1
+
+Indian Wells (USA), hard
+-------------------------------------
+
+EuEPYusS¬ZB÷3473162¬ZC÷rPrVGR1H¬ZD÷p¬ZE÷2mTtGsPd¬ZF÷0¬ZO÷0¬ZG÷2¬ZH÷9011_EuEPYusS¬ZJ÷5¬ZK÷Indian Wells (USA)¬ZL÷/atp-singles/indian-wells/¬OAJ÷AL5ag6jD-OUWfKaQH.png¬ZX÷00110...000Indian Wells018, hard07400000Indian Wells018 (USA)¬ZHS÷5724¬ZCC÷0¬TSS÷¬ZAF÷ATP - Singles¬ZAC÷IND
+----------EXTRACTION-----------------
+MATCH_ID:  C03N8Jr2
+START_DATE:1647195000
+END_DATE: 1647195000
+PLAYER_ONE: Cilic M.¬RW÷0¬AX÷0¬AO÷1647205468¬BX÷-1¬WL÷¬WQ÷¬WN÷KEC
+PLAYER_TWO: Kecmanovic M.
+
+Kecmanovic M.¬JB÷8YjK5j4c¬PY÷MTQ5CPOR¬WV÷kecmanovic-miomir¬AS÷2¬AZ÷2¬GRB÷0¬CB÷167¬FV÷Serbia¬AH÷2
+
+2
+1¬BA÷7¬BC÷3¬BE÷6¬DA÷9¬DE÷6¬OA÷p0QaQSjC-MiifrrOt.png¬AW÷1
+
+Dubai (United Arab Emirates), hard
+-------------------------------------
+
+xKbLXKij¬ZB÷3473162¬ZC÷E9EYluVG¬ZD÷p¬ZE÷bPiqrfds¬ZF÷0¬ZO÷0¬ZG÷2¬ZH÷9011_xKbLXKij¬ZJ÷5¬ZK÷Dubai (United Arab Emirates)¬ZL÷/atp-singles/dubai/¬OAJ÷W41GoQkd-focSMDrF.png¬ZX÷00110...000Dubai, hard 011, hard00200000Dubai (Unite028rates)¬ZHS÷5724¬ZCC÷0¬TSS÷¬ZAF÷ATP - Singles¬ZAC÷DUB
+----------EXTRACTION-----------------
+MATCH_ID:  nszwVWnD
+START_DATE:1645438200
+END_DATE: 1645438200
+PLAYER_ONE: Vesely J.¬RW÷0¬AX÷0¬AO÷1645445185¬BX÷-1¬WL÷¬WQ÷¬WN÷CIL
+PLAYER_TWO: Cilic M.
+
+Cilic M.¬JB÷f5TtxAy4¬PY÷nLoK5syL¬WV÷cilic-marin¬GRB÷0¬CB÷59¬FV÷Croatia¬AH÷0
+
+0
+2¬BA÷6¬BC÷7¬DC÷7¬OA÷GA93PjjT-hSRkU6Ym.png¬AW÷1
+
+Doha (Qatar), hard
+-------------------------------------
+
+jP1bmM3a¬ZB÷3473162¬ZC÷l8OVQ72T¬ZD÷p¬ZE÷EsycTlJt¬ZF÷0¬ZO÷0¬ZG÷2¬ZH÷9011_jP1bmM3a¬ZJ÷5¬ZK÷Doha (Qatar)¬ZL÷/atp-singles/doha/¬OAJ÷E5GPqD9j-l4YLyuUq.png¬ZX÷00110...000Doha, hard  010, hard00100000Doha (Qatar)012Qatar)¬ZHS÷5724¬ZCC÷0¬TSS÷¬ZAF÷ATP - Singles¬ZAC÷DOH
+----------EXTRACTION-----------------
+MATCH_ID:  l0iGyVeM
+START_DATE:1645119000
+END_DATE: 1645119000
+PLAYER_ONE: Khachanov K.¬RW÷0¬AX÷0¬AO÷1645126129¬BX÷-1¬WL÷¬WQ÷¬WN÷CIL
+PLAYER_TWO: Cilic M.
+
+Cilic M.¬JB÷G8Bdh9qf¬PY÷nLoK5syL¬WV÷cilic-marin¬GRB÷0¬CB÷59¬FV÷Croatia¬AH÷1
+
+1
+2¬BA÷3¬BC÷6¬BE÷6¬OA÷dI1pPHjC-Sr36jisq.png¬AW÷1
+----------EXTRACTION-----------------
+MATCH_ID:  lCH6rRk6
+START_DATE:1645015800
+END_DATE: 1645015800
+0¬BA÷3¬BC÷5¬OA÷A5qH8d7k-dbDiF5vB.png¬WN÷CIL
+PLAYER_TWO: Cilic M.
+
+Cilic M.¬JB÷KfHWQKWf¬PY÷nLoK5syL¬WV÷cilic-marin¬AS÷2¬AZ÷2¬GRB÷0¬CB÷59¬FV÷Croatia¬AH÷2
+
+2
+6¬BD÷7¬OB÷p0QaQSjC-MiifrrOt.png¬AW÷1
+
+Australian Open (Australia), hard
+-------------------------------------
+
+MP4jLdJh¬ZB÷3473162¬ZC÷8Q8MEVel¬ZD÷t¬ZE÷WOpjk5sI¬ZF÷0¬ZO÷0¬ZG÷2¬ZH÷9011_MP4jLdJh¬ZJ÷5¬ZK÷Australian Open (Australia)¬ZL÷/atp-singles/australian-open/¬OAJ÷x0sfMx97-z7wyXjMF.png¬ZX÷00110...000Australian O021, hard00000000Australian O027ralia)¬ZHS÷5724¬ZCC÷0¬TSS÷¬ZAF÷ATP - Singles¬ZAC÷AO
+----------EXTRACTION-----------------
+MATCH_ID:  b9PUU7Fi
+START_DATE:1642995300
+END_DATE: 1642995300
+PLAYER_ONE: Cilic M.¬RW÷0¬AX÷0¬AO÷1643008201¬BX÷-1¬WL÷¬WQ÷¬WN÷AUG
+PLAYER_TWO: Auger-Aliassime F.
+
+Auger-Aliassime F.¬JB÷8UIYqWad¬PY÷CzXh4LAb¬WV÷auger-aliassime-felix¬AS÷2¬AZ÷2¬GRB÷0¬CB÷47¬FV÷Canada¬AH÷3
+
+3
+1¬BA÷6¬BC÷6¬BE÷2¬BG÷6¬DC÷7¬DG÷4¬OA÷p0QaQSjC-MiifrrOt.png¬AW÷1
+----------EXTRACTION-----------------
+MATCH_ID:  C0eCpE5d
+START_DATE:1642846200
+END_DATE: 1642846200
+PLAYER_ONE: Rublev A.¬RW÷0¬AX÷0¬AO÷1642855513¬BX÷-1¬WL÷¬WQ÷¬WN÷CIL
+PLAYER_TWO: Cilic M.
+
+Cilic M.¬JB÷25qPC2Fn¬PY÷nLoK5syL¬WV÷cilic-marin¬AS÷2¬AZ÷2¬GRB÷0¬CB÷59¬FV÷Croatia¬AH÷3
+
+3
+1¬BA÷5¬BC÷6¬BE÷6¬BG÷3¬DC÷3¬OA÷QwaaOeDN-OGaImkR1.png¬AW÷1
+----------EXTRACTION-----------------
+MATCH_ID:  Wtt69Ao3
+START_DATE:1642637400
+END_DATE: 1642637400
+PLAYER_ONE: Gombos N.¬RW÷0¬AX÷0¬AO÷1642647081¬BX÷-1¬WL÷¬WQ÷¬WN÷CIL
+PLAYER_TWO: Cilic M.
+
+Cilic M.¬JB÷CS2TbWbM¬PY÷nLoK5syL¬WV÷cilic-marin¬AS÷2¬AZ÷2¬GRB÷0¬CB÷59¬FV÷Croatia¬AH÷3
+
+3
+1¬BA÷2¬BC÷3¬BE÷6¬BG÷6¬DG÷6¬OA÷hCHAWZkC-O8ViDgXb.png¬AW÷1
+----------EXTRACTION-----------------
+MATCH_ID:  MwwKLGsp
+START_DATE:1642464600
+END_DATE: 1642464600
+PLAYER_ONE: Gomez E.¬RW÷0¬AX÷0¬AO÷1642470707¬BX÷-1¬WL÷¬WQ÷¬WN÷CIL
+PLAYER_TWO: Cilic M.
+
+Cilic M.¬JB÷A9qArl6H¬PY÷nLoK5syL¬WV÷cilic-marin¬AS÷2¬AZ÷2¬GRB÷0¬CB÷59¬FV÷Croatia¬AH÷3
+
+3
+0¬BA÷3¬BC÷1¬BE÷2¬OA÷prridABN-YFtJL91n.png¬AW÷1
+
+Adelaide 2 (Australia), hard
+-------------------------------------
+
+p6mGnloq¬ZB÷3473162¬ZC÷fwFuhovg¬ZD÷p¬ZE÷rgLzLstH¬ZF÷0¬ZO÷0¬ZG÷2¬ZH÷9011_p6mGnloq¬ZJ÷5¬ZK÷Adelaide 2 (Australia)¬ZL÷/atp-singles/adelaide-2/¬OAJ÷napQDO6j-AcXZpT1U.png¬ZX÷00110...000Adelaide 2, 016, hard00100000Adelaide 2 (022ralia)¬ZHS÷5724¬ZCC÷0¬TSS÷¬ZAF÷ATP - Singles¬ZAC÷ADE
+----------EXTRACTION-----------------
+MATCH_ID:  rmbV3Ijn
+START_DATE:1642158600
+END_DATE: 1642158600
+1¬BA÷2¬BC÷6¬BE÷6¬DE÷10¬OA÷p0QaQSjC-MiifrrOt.png¬WN÷KOK
+PLAYER_TWO: Kokkinakis T.
+
+Kokkinakis T.¬JB÷rTzAmbsF¬PY÷rBm7dcxH¬WV÷kokkinakis-thanasi¬AS÷2¬AZ÷2¬GRB÷0¬CB÷24¬FV÷Australia¬AH÷2
+
+2
+6¬BD÷3¬BF÷7¬DF÷12¬OB÷Ox9424Pq-EghpKAxi.png¬AW÷1
+----------EXTRACTION-----------------
+MATCH_ID:  48LsT631
+START_DATE:1642038000
+END_DATE: 1642038000
+PLAYER_ONE: Paul T.¬RW÷0¬AX÷0¬AO÷1642044900¬BX÷-1¬WL÷¬WQ÷¬WN÷CIL
+PLAYER_TWO: Cilic M.
+
+Cilic M.¬JB÷4IL3ceSm¬PY÷nLoK5syL¬WV÷cilic-marin¬AS÷2¬AZ÷2¬GRB÷0¬CB÷59¬FV÷Croatia¬AH÷2
+
+2
+1¬BA÷4¬BC÷6¬BE÷3¬OA÷8vGNRdkC-pQ0ElVBe.png¬AW÷1
+----------EXTRACTION-----------------
+MATCH_ID:  0ltSTZnU
+START_DATE:1641952200
+END_DATE: 1641952200
+PLAYER_ONE: Munar J.¬RW÷0¬AX÷0¬AO÷1641958104¬BX÷-1¬WL÷¬WQ÷¬WN÷CIL
+PLAYER_TWO: Cilic M.
+
+Cilic M.¬JB÷Es6zsbGt¬PY÷nLoK5syL¬WV÷cilic-marin¬AS÷2¬AZ÷2¬GRB÷0¬CB÷59¬FV÷Croatia¬AH÷2
+
+2
+0¬BA÷6¬BC÷2¬DA÷6¬OA÷UXGGX55k-pQ0ElVBe.png¬AW÷1
+
+Adelaide (Australia), hard
+-------------------------------------
+
+A7pLCbj9¬ZB÷3473162¬ZC÷tYc5Hfs6¬ZD÷p¬ZE÷pb9BRmEJ¬ZF÷0¬ZO÷0¬ZG÷2¬ZH÷9011_A7pLCbj9¬ZJ÷5¬ZK÷Adelaide (Australia)¬ZL÷/atp-singles/adelaide/¬OAJ÷EFm2MFTp-YDsJRV2q.png¬ZX÷00110...000Adelaide, ha014, hard03500000Adelaide (Au020ralia)¬ZHS÷5724¬ZCC÷0¬TSS÷¬ZAF÷ATP - Singles¬ZAC÷ADE
+----------EXTRACTION-----------------
+MATCH_ID:  65RyfYX5
+START_DATE:1641619500
+END_DATE: 1641619500
+PLAYER_ONE: Cilic M.¬RW÷0¬AX÷0¬AO÷1641626264¬BX÷-1¬WL÷¬WQ÷¬WN÷KHA
+PLAYER_TWO: Khachanov K.
+
+Khachanov K.¬JB÷42yoAC4j¬PY÷4bNPtZT5¬WV÷khachanov-karen¬AS÷2¬AZ÷2¬GRB÷0¬CB÷8¬FV÷World¬AH÷2
+
+2
+0¬BA÷6¬BC÷3¬DA÷3¬OA÷p0QaQSjC-MiifrrOt.png¬AW÷1
+----------EXTRACTION-----------------
+MATCH_ID:  Gr9gLctQ
+START_DATE:1641520500
+END_DATE: 1641520500
+PLAYER_ONE: Djere L.¬RW÷0¬AX÷0¬AO÷1641524507¬BX÷-1¬WL÷¬WQ÷¬WN÷CIL
+PLAYER_TWO: Cilic M.
+
+Cilic M.¬JB÷A7p1jCvq¬PY÷nLoK5syL¬WV÷cilic-marin¬AS÷2¬AZ÷2¬GRB÷0¬CB÷59¬FV÷Croatia¬AH÷2
+
+2
+0¬BA÷3¬BC÷2¬OA÷EeaL68A6-rBcsFrvR.png¬AW÷1
+----------EXTRACTION-----------------
+MATCH_ID:  niRWMcaq
+START_DATE:1641359100
+END_DATE: 1641359100
+0¬BA÷4¬BC÷6¬DC÷3¬OA÷O8k2zMBN-2koK4co3.png¬WN÷CIL
+PLAYER_TWO: Cilic M.
+
+Cilic M.¬JB÷tKGxgZX2¬PY÷nLoK5syL¬WV÷cilic-marin¬AS÷2¬AZ÷2¬GRB÷0¬CB÷59¬FV÷Croatia¬AH÷2
+
+2
+6¬BD÷7¬DD÷7¬OB÷p0QaQSjC-MiifrrOt.png¬AW÷1
+
+Davis Cup - World Group (World) - Play Offs
+-------------------------------------
+
+fNKFHEIH¬ZB÷3473162¬ZC÷QRExMC18¬ZD÷p¬ZE÷0¬ZF÷0¬ZH÷9011_fNKFHEIH¬ZJ÷54¬ZK÷Davis Cup - World Group (World)¬ZL÷/atp-singles/davis-cup-world-group/¬OAJ÷dl0l8AiU-d0jGmlAt.png¬ZX÷00110...000Davis Cup - 035y Offs00000000Davis Cup - 031World)¬ZHS÷5724¬ZCC÷0¬TSS÷¬ZAF÷ATP - Singles¬ZAC÷DC
+----------EXTRACTION-----------------
+MATCH_ID:  AJPsPiOD
+START_DATE:1638724200
+END_DATE: 1638724200
+PLAYER_ONE: Medvedev D.¬RW÷0¬AX÷0¬AO÷1638729289¬BX÷-1¬WL÷¬WQ÷¬WN÷CIL
+PLAYER_TWO: Cilic M.
+
+Cilic M.¬JB÷zcATEURH¬PY÷nLoK5syL¬WV÷cilic-marin¬GRB÷0¬CB÷59¬FV÷Croatia¬AH÷0
+
+0
+2¬BA÷7¬BC÷6¬DA÷9¬OA÷6yqVVl7k-6Z1AkBdk.png¬AW÷1
+----------EXTRACTION-----------------
+MATCH_ID:  xU587rXK
+START_DATE:1638552600
+END_DATE: 1638552600
+PLAYER_ONE: Cilic M.¬RW÷0¬AX÷0¬AO÷1638558733¬BX÷-1¬WL÷¬WQ÷¬WN÷DJO
+PLAYER_TWO: Djokovic N.
+
+Djokovic N.¬JB÷tjNAh0ai¬PY÷AZg49Et9¬WV÷djokovic-novak¬AS÷2¬AZ÷2¬GRB÷0¬CB÷167¬FV÷Serbia¬AH÷2
+
+2
+0¬BA÷4¬BC÷2¬OA÷p0QaQSjC-MiifrrOt.png¬AW÷1
+----------EXTRACTION-----------------
+MATCH_ID:  SxgpLh5N
+START_DATE:1638208500
+END_DATE: 1638208500
+PLAYER_ONE: Sinner J.¬RW÷0¬AX÷0¬AO÷1638218318¬BX÷-1¬WL÷¬WQ÷¬WN÷CIL
+PLAYER_TWO: Cilic M.
+
+Cilic M.¬JB÷CzD0bnjm¬PY÷nLoK5syL¬WV÷cilic-marin¬GRB÷0¬CB÷59¬FV÷Croatia¬AH÷1
+
+1
+2¬BA÷3¬BC÷7¬BE÷6¬DC÷7¬OA÷vVdIl9AN-dEXkR0Wq.png¬AW÷1
+
+Davis Cup - World Group (World)
+-------------------------------------
+
+fNKFHEIH¬ZB÷3473162¬ZC÷tEDsb991¬ZD÷p¬ZE÷0¬ZF÷0¬ZH÷9011_fNKFHEIH¬ZJ÷5¬ZK÷Davis Cup - World Group (World)¬ZL÷/atp-singles/davis-cup-world-group/¬OAJ÷dl0l8AiU-d0jGmlAt.png¬ZX÷00110...000Davis Cup - 023 Group00000000Davis Cup - 031World)¬ZHS÷5724¬ZCC÷0¬TSS÷¬ZAF÷ATP - Singles¬ZAC÷DC
+----------EXTRACTION-----------------
+MATCH_ID:  pIaOab1c
+START_DATE:1638096300
+END_DATE: 1638096300
+PLAYER_ONE: Cilic M.¬RW÷0¬AX÷0¬AO÷1638105840¬BX÷-1¬WL÷¬WQ÷¬WN÷PIR
+PLAYER_TWO: Piros Z.
+
+Piros Z.¬JB÷jopVgXQm¬PY÷2BC3jj8o¬WV÷piros-zsombor¬AS÷2¬AZ÷2¬GRB÷0¬CB÷91¬FV÷Hungary¬AH÷2
+
+2
+1¬BA÷6¬BC÷5¬BE÷4¬OA÷p0QaQSjC-MiifrrOt.png¬AW÷1
+----------EXTRACTION-----------------
+MATCH_ID:  EPPrXNZq
+START_DATE:1637861100
+END_DATE: 1637861100
+PLAYER_ONE: Cilic M.¬RW÷0¬AX÷0¬AO÷1637868827¬BX÷-1¬WL÷¬WQ÷¬WN÷DEM
+PLAYER_TWO: De Minaur A.
+
+De Minaur A.¬JB÷bs0aAhhN¬PY÷EZgZ9Xfh¬WV÷de-minaur-alex¬GRB÷0¬CB÷24¬FV÷Australia¬AH÷1
+
+1
+2¬BA÷6¬BC÷5¬BE÷6¬OA÷p0QaQSjC-MiifrrOt.png¬AW÷1¬~
